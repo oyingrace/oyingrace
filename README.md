@@ -1,6 +1,6 @@
 <img src="github_banner.png" alt="GitHub Banner" width="100%" />
 
-# 💫 I love building new solutions
+# Hi, I'm DevQueen. I love building new solutions
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/odah_grace) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@devqueen_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oyingrace307@gmail.com) 
