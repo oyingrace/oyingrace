@@ -4,7 +4,7 @@
 
 <p align="left">I build for top 1% web3 and crypto projects: </p>
 
-* DApps
+* Dapps
 * Landing Pages
 * Websites
 * Tokens (Memes & Utility)
