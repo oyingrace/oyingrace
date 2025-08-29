@@ -1,6 +1,6 @@
 <img src="github_banner.png" alt="GitHub Banner" width="100%" />
 
-# Hi <img src="wave.gif" width="30px" height="30px"> 
+# Hi <img src="https://github.com/oyingrace/oyingrace/blob/main/wave.gif" width="30px" height="30px"> 
 
 <p align="left">I build for top 1% web3 and crypto projects: </p>
 
